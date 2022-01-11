@@ -1,0 +1,26 @@
+
+   
+.navbar a:hover {
+  font-style: italic;
+}
+
+.navbar-dark .nav-item > .nav-link.active  {
+  color:mediumturquoise; 
+}
+
+#tooltip #tooltiptext {
+  visibility: hidden;
+  font-size: 1;
+  color: black;
+  text-align: left;
+  position: absolute;
+  z-index: 3;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+#tooltip:hover #tooltiptext {
+  visibility: visible;
+}
