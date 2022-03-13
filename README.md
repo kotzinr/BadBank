@@ -1,17 +1,17 @@
-## Banking app
+# Banking app
 
-# Description:
+## Description:
 banking app simulator with user authentication and connected front and back ends
 
-# Installation: 
+## Installation: 
 under construction
 
-# src="bankjpg.jpg"
+## <img src="bankjpg.jpg" width=200px>
 
-# Technology: 
+## Technology: 
 
-# Features: 
+## Features: 
 Nav bar, account creation, user authentication and authorization, deposit/withdrawl functionality and database storage.
 
-# License: 
+## License: 
 MIT
