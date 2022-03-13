@@ -6,7 +6,7 @@ banking app simulator with user authentication and connected front and back ends
 ## Installation: 
 under construction
 
-## <img src="bankjpg.jpg" width=200px>
+## <img src="bankjpg.jpeg" width=200px>
 
 ## Technology: 
 
