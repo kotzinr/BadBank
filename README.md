@@ -9,6 +9,7 @@ under construction
 ## <img src="bankjpg.jpeg" width=200px>
 
 ## Technology: 
+Mongo, Express, React, Node 
 
 ## Features: 
 Nav bar, account creation, user authentication and authorization, deposit/withdrawl functionality and database storage.
