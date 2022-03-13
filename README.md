@@ -1,18 +1,17 @@
-# BadBank
-banking app simulator with no security 
+## Banking app
 
-# To run the project: must have Git and Node installed
+# Description:
+banking app simulator with user authentication and connected front and back ends
 
-# Clone the project
-$ git clone https://github.com/kotzinr/BadBank
+# Installation: 
+under construction
 
-# Access
-$ cd BadBank
+# src="bankjpg.jpg"
 
-# Install dependencies
-$ yarn
+# Technology: 
 
-# Run the project
-$ yarn start
+# Features: 
+Nav bar, account creation, user authentication and authorization, deposit/withdrawl functionality and database storage.
 
-# The server will initialize in the <http://localhost:3000>
+# License: 
+MIT
